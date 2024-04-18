@@ -1,5 +1,5 @@
 ## Doctor availability API
-This API helps in finding the availability of a doctor.
+This API helps in finding the availability of a doctor on a given date and time.
 
 ## insatallation
 
